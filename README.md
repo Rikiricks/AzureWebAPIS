@@ -4,4 +4,5 @@
 - Azure App Service
 - Azure AD Authentication
 - NSwag, OpenAPI & SwaggerUI
+- Blob Storage
   
